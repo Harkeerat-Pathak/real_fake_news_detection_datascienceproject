@@ -1,4 +1,4 @@
-# Real and Fake News detection (Data Science Project)
+# Real and Fake News Detection 
 
 (A) What is a fake news?
 
